@@ -1,5 +1,5 @@
 # Proyecto de Visualización y Edición de Documentos
-Este proyecto permite visualizar y editar diferentes tipos de archivos, como DOCX, PDF y XLSX. Utiliza la poderosa librería Syncfusion y el framework Angular para ofrecer una interfaz de usuario robusta y eficiente.
+Este proyecto permite visualizar y editar diferentes tipos de archivos, como DOCX, PDF y XLSX. Utiliza la poderosa librería Syncfusion y el framework Angular para ofrecer una interfaz de usuario robusta y eficiente. Aunque el proyecto todavía tiene algunos fallos, se encuentra en desarrollo activo para seguir mejorándolo.
 
 # Características
 ## Visualización de Documentos DOCX: 
